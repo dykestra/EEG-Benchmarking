@@ -65,9 +65,9 @@ python main.py \
 
 ```
 @inproceedings{
-anonymous2025assessing,
+lee2025assessing,
 title={Assessing the Capabilities of Large Brainwave Foundation Models},
-author={Anonymous},
+author={Na Lee and Stylianos Bakas and Konstantinos Barmpas and Yannis Panagakis and Dimitrios Adamos and Nikolaos Laskaris and Stefanos Zafeiriou},
 booktitle={IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2025, Special Sessions},
 year={2025},
 url={https://openreview.net/forum?id=Qwn2a1uIpx}
