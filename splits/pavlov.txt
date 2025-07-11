@@ -1,0 +1,10 @@
+{"0": ["pavlov_sub-039", "pavlov_sub-040", "pavlov_sub-049", "pavlov_sub-057", "pavlov_sub-064", "pavlov_sub-071", "pavlov_sub-096"],
+ "1": ["pavlov_sub-043", "pavlov_sub-046", "pavlov_sub-047", "pavlov_sub-061", "pavlov_sub-075", "pavlov_sub-078", "pavlov_sub-085"],
+ "2": ["pavlov_sub-044", "pavlov_sub-058", "pavlov_sub-063", "pavlov_sub-073", "pavlov_sub-079", "pavlov_sub-084", "pavlov_sub-089"],
+ "3": ["pavlov_sub-055", "pavlov_sub-059", "pavlov_sub-067", "pavlov_sub-076", "pavlov_sub-080", "pavlov_sub-090", "pavlov_sub-092"],
+ "4": ["pavlov_sub-035", "pavlov_sub-052", "pavlov_sub-054", "pavlov_sub-065", "pavlov_sub-068", "pavlov_sub-081", "pavlov_sub-094"],
+ "5": ["pavlov_sub-041", "pavlov_sub-048", "pavlov_sub-050", "pavlov_sub-053", "pavlov_sub-060", "pavlov_sub-070"],
+ "6": ["pavlov_sub-032", "pavlov_sub-034", "pavlov_sub-045", "pavlov_sub-077", "pavlov_sub-087", "pavlov_sub-093"],
+ "7": ["pavlov_sub-062", "pavlov_sub-072", "pavlov_sub-082", "pavlov_sub-083", "pavlov_sub-088", "pavlov_sub-097"],
+ "8": ["pavlov_sub-036", "pavlov_sub-038", "pavlov_sub-051", "pavlov_sub-056", "pavlov_sub-086", "pavlov_sub-098"],
+ "9": ["pavlov_sub-033", "pavlov_sub-042", "pavlov_sub-069", "pavlov_sub-074", "pavlov_sub-091", "pavlov_sub-095"]}

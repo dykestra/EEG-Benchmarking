@@ -1,0 +1,10 @@
+{"0": ["highgamma_s01", "highgamma_s13"],
+ "1": ["highgamma_s08", "highgamma_s14"],
+ "2": ["highgamma_s06", "highgamma_s07"],
+ "3": ["highgamma_s03", "highgamma_s05"],
+ "4": ["highgamma_s11"],
+ "5": ["highgamma_s12"],
+ "6": ["highgamma_s09"],
+ "7": ["highgamma_s10"],
+ "8": ["highgamma_s04"],
+ "9": ["highgamma_s02"]}
