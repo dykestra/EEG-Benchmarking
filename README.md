@@ -60,3 +60,16 @@ python main.py \
   --model-name='EEGNetv1' \
   --output-dir='results'
 ```
+
+## Citation
+
+```
+@inproceedings{
+anonymous2025assessing,
+title={Assessing the Capabilities of Large Brainwave Foundation Models},
+author={Anonymous},
+booktitle={IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2025, Special Sessions},
+year={2025},
+url={https://openreview.net/forum?id=Qwn2a1uIpx}
+}
+```
